@@ -1,0 +1,31 @@
+body{
+    background-image: url(img/cherrybackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.footer{
+    margin-top: 300px;
+    margin-left: 690px;
+}
+
+.button{
+    background-color: white;
+    border-top:solid 2px black ;
+    border-bottom:solid 2px black ;
+    border-left:solid 2px crimson ;
+    border-right:solid 2px crimson ;
+    width: 110px;
+    height: 45px;
+    font-size: 18px;
+    border-radius: 10px;
+    color: crimson;
+}
+
+.button:hover{
+    color: black;
+    border-top:solid 2px crimson ;
+    border-bottom:solid 2px crimson ;
+    border-left:solid 2px black ;
+    border-right:solid 2px black ;
+}
